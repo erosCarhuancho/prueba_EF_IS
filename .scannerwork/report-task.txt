@@ -1,0 +1,7 @@
+organization=eroscarhuancho
+projectKey=erosCarhuancho_prueba_EF_IS
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.30222
+dashboardUrl=https://sonarcloud.io/dashboard?id=erosCarhuancho_prueba_EF_IS
+ceTaskId=AYH0Xou6soxuRNg51OSs
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYH0Xou6soxuRNg51OSs
